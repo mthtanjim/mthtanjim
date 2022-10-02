@@ -1,4 +1,4 @@
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/learnwithsumit/learnwithsumit/blob/main/assets/github-banner.png"><img src="/learnwithsumit/learnwithsumit/raw/main/assets/github-banner.png" alt="Github Banner" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://1.bp.blogspot.com/-BGp60KKtMVE/X3mKADygvXI/AAAAAAAAB-U/Og55yJuQH74WI9q7nIbantpdwKYP719RACLcBGAsYHQ/s320/IMG_20180803_150717.jpg" alt="Github Banner" style="max-width: 100%;"></a></p>
 
 <h1 align="center">Hi 👋, I'm Md Tanjimul Hasan Tanjim</h1>
 <h3 align="center">A passionate Full Stack Developer (MERN)</h3>
