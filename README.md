@@ -1,3 +1,5 @@
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/learnwithsumit/learnwithsumit/blob/main/assets/github-banner.png"><img src="/learnwithsumit/learnwithsumit/raw/main/assets/github-banner.png" alt="Github Banner" style="max-width: 100%;"></a></p>
+
 <h1 align="center">Hi 👋, I'm Md Tanjimul Hasan Tanjim</h1>
 <h3 align="center">A passionate Full Stack Developer (MERN)</h3>
 
