@@ -1,7 +1,7 @@
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://1.bp.blogspot.com/-BGp60KKtMVE/X3mKADygvXI/AAAAAAAAB-U/Og55yJuQH74WI9q7nIbantpdwKYP719RACLcBGAsYHQ/s320/IMG_20180803_150717.jpg" alt="Github Banner" style="max-width: 100%;"></a></p>
 
 <h1 align="center">Hi 👋, I'm Md Tanjimul Hasan Tanjim</h1>
-<h3 align="center">A passionate Full Stack Developer (MERN)</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mthtanjim&label=Profile%20views&color=0e75b6&style=flat" alt="mthtanjim" /> </p>
 
