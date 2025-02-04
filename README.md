@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mthtanjim&label=Profile%20views&color=0e75b6&style=flat" alt="mthtanjim" /> </p>
 
-- 🔭 I’m currently working on **Navana Group**
-
-- 👨‍💻 All of my projects are available at [https://mth-tanjim.web.app/](https://mth-tanjim.web.app/)
-
-- 💬 Ask me about **Nodejs,React, ExpressJS,MongoDB, Digital Marketing**
+- 🔭 I’m currently working on **Adventure Dhaka Limited**
+  
+- Worked with Navana Group, DOM-INNO Group, DEMO Group
+  
+- 💬 Ask me about **React Js, Next js, Nodejs, ExpressJS, MongoDB, Mysql**
 
 - 📫 How to reach me **mthtanjim@gmail.com**
 
-- 📄 Know about my experiences [https://mth-tanjim.web.app](https://mth-tanjim.web.app)
+- 📄 to Know about me, my experience and projects at - [https://mth-tanjim.web.app](https://mth-tanjim.web.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
