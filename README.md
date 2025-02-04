@@ -6,6 +6,10 @@
 <p align="center">
   <a href="https://github.com/mthtanjim">
     <img src="https://komarev.com/ghpvc/?username=mthtanjim&label=Profile%20views&color=0e75b6&style=flat" alt="mthtanjim" />
+  </a>
+  <a href="https://linkedin.com/in/mthtanjim">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" alt="LinkedIn Connect" />
+  </a>
 </p>
 
 ---
@@ -14,7 +18,7 @@
 
 - 🔭 Currently working at **Adventure Dhaka Limited**.
 - 🌱 Passionate about learning and exploring cutting-edge technologies to build innovative solutions.
-- 👨‍💻 Held full-time positions as a Full Stack Developer at **NAVANA Group, DOM-INNO, and DEMO Group**, playing a key role         in achieving organizational goals.
+- 👨‍💻 Held full-time positions as a Full Stack Developer at **NAVANA Group, DOM-INNO, and DEMO Group**, playing a key role in achieving organizational goals.
 - 💬 Ask me about **React.js, Next.js, Node.js, Express.js, MongoDB, MySQL**.
 - 📫 How to reach me: **mthtanjim@gmail.com**.
 - 📄 Check out my portfolio: [https://mth-tanjim.web.app](https://mth-tanjim.web.app).
