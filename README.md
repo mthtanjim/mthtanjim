@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://1.bp.blogspot.com/-BGp60KKtMVE/X3mKADygvXI/AAAAAAAAB-U/Og55yJuQH74WI9q7nIbantpdwKYP719RACLcBGAsYHQ/s320/IMG_20180803_150717.jpg" target="_blank" rel="noopener noreferrer">
-    <img src="https://1.bp.blogspot.com/-BGp60KKtMVE/X3mKADygvXI/AAAAAAAAB-U/Og55yJuQH74WI9q7nIbantpdwKYP719RACLcBGAsYHQ/s320/IMG_20180803_150717.jpg" alt="Github Banner" style="max-width: 100%;">
-  </a>
-</p>
+</br>
 
 <h1 align="center">Hi 👋, I'm Md Tanjimul Hasan Tanjim</h1>
 <h3 align="center">A Passionate Full Stack Developer from Bangladesh</h3>
